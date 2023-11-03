@@ -1,10 +1,11 @@
-<img src="https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/logo.png" alt="Logo" align="right" /> McHarmony-round Icon Theme
+# WIP
 ======
 
 MacOSX Mojave like round icon theme for linux desktops
 
 Based on OSX_ONE: https://github.com/unc926/OSX_ONE
-Based on 
+Based on McMojave Circle: https://github.com/vinceliuice/McMojave-circle
+
 ## Install tips
 
 Usage:  `./install.sh`  **[OPTIONS...]**
